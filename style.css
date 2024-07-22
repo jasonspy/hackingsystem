@@ -10,7 +10,7 @@
 }
 
 .header {
-    padding: 5rem;
+    padding: 1rem;
 }
 .header-container {
     background: rgb(207, 207, 207);
@@ -20,13 +20,13 @@
 }
 .header-container h1{
     text-align: center;
-    font-size: 2.3rem;
+    font-size: 1.5rem;
     color: rgb(59, 59, 59);
     letter-spacing: 0.2rem;
 }
 .header-container p {
     text-align: center;
-    font-size: 1.6rem;
+    font-size: 1.1rem;
     color: rgb(73, 73, 73);
     letter-spacing: 0.27rem;
 }
@@ -34,21 +34,19 @@
     background: rgb(3, 39, 68);
     border-radius: 2px;
     border: 0.1px solid rgb(1, 31, 58);
-    padding: 3rem;
     justify-content: center;
 }
 .second-bar {
-    padding: 5rem;
-    margin-top: -10rem;
+    padding: 1em;
 }
 .second-bar-container h1 {
     text-align: center;
-    font-size: 4.3rem;
+    font-size: 1rem;
     color: rgb(207, 201, 201);
 }
 .second-bar-container p {
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.4rem;
     font-weight: 700;
     letter-spacing: 0.1rem;
     color: rgb(216, 203, 22);
@@ -68,10 +66,29 @@
     gap: 1rem;
     border: 0.1px solid rgb(1, 31, 58);
     padding: 2rem;
+    font-size: 1px;
     /* margin-top: 1rem; */
     display: flex;
     justify-content:space-between;
     justify-content: center;
+}
+
+.me .third-slide-container p {
+    font-size: 0.7rem;
+}
+.me .third-slide-container img {
+    width: 3rem;
+}
+.button {
+    text-align: center;
+    background: rgb(21, 138, 21);
+    color: white;
+}
+.button p{
+    font-size: 13px;
+}
+.third-slide-container p{
+    font-size: 1rem;
 }
 .phone-slide-container {
     background: rgb(11, 61, 102);
