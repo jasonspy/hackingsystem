@@ -83,9 +83,10 @@
     text-align: center;
     background: rgb(21, 138, 21);
     color: white;
+    padding: 1rem;
 }
 .button p{
-    font-size: 13px;
+    font-size: 15px;
 }
 .third-slide-container p{
     font-size: 1rem;
