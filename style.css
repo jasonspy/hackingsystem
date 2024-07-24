@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 .main {
-    background: rgb(3, 39, 68);
+    background: rgb(234, 234, 234);
     border: 1px solid black;
 }
 
@@ -14,8 +14,8 @@
 }
 .header-container {
     background: rgb(207, 207, 207);
-    border-radius: 2px;
-    padding: 3rem;
+    border-radius: 7px;
+    padding: 1rem;
     justify-content: center;
 }
 .header-container h1{
@@ -31,8 +31,9 @@
     letter-spacing: 0.27rem;
 }
 .second-bar-container {
-    background: rgb(3, 39, 68);
+    background: rgb(0, 0, 0);
     border-radius: 2px;
+    border-radius: 2rem;
     border: 0.1px solid rgb(1, 31, 58);
     justify-content: center;
 }
@@ -60,7 +61,7 @@
     margin-top: -10rem;
 }
 .third-slide-container {
-    background: rgb(11, 61, 102);
+    background: rgb(0, 0, 0);
     border-radius: 2px;
     height: 5rem;
     gap: 1rem;
